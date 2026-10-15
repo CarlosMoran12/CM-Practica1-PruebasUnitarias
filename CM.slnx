@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CM.Cadenas.UnitTestAppxUnit/CM.Cadenas.UnitTestAppxUnit.csproj" />
+  <Project Path="CM.Cadenas/CM.Cadenas.csproj" />
+  <Project Path="CM.Temperatura.UnitTestMSTest/CM.Temperatura.UnitTestMSTest.csproj" />
+  <Project Path="CM.Temperatura/CM.Temperatura.csproj" />
+</Solution>
